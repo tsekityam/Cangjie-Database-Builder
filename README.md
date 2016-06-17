@@ -7,4 +7,4 @@ This project is forked from [libcanjie](https://github.com/Cangjians/libcangjie)
     $ gcc -o dbbuilder dbbuilder.c -lsqlite3 
 
 ## How to use
-    ./dbbuilder table.txt cangjie.db
+    $ ./dbbuilder table.txt cangjie.db
